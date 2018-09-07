@@ -3,15 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://oiam.app/about/</loc>
+    <lastmod>2018-09-07T21:33:38+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://oiam.app/readme/</loc>
   </url>
   
   <url>
-    <loc>https://oiam.app/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://oiam.app/</loc>
+    <lastmod>2018-09-07T21:33:38+02:00</lastmod>
     <priority>0</priority>
   </url>
   
