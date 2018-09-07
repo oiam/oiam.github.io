@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>https://oiam.app/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://oiam.app/</loc>
     <priority>0</priority>
   </url>
